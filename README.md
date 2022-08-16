@@ -1,7 +1,8 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](rishvchand.io)
-<h1 align="center">Hi👋,I'm Suraj Mandal From Biratnagar,Nepal🚩</h1>
+<h1 align="center">Hi 👋 I'm Suraj Mandal From Biratnagar,Nepal🚩</h1>
 <h3 align="center">A passionate Application Developer 👨‍💻</h3>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47gxc02dg0dbfm8vujibjgzdvy9qbdfcdqz91u9ggc&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajmandal99&label=Profile%20views&color=0e75b6&style=flat" alt="surajmandal99" /> </p>
 
@@ -9,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter, Frameworks 👨‍💻**
 
-- 🤝 I’m looking for [part-time job as a](Flutter Developer 💻)
+- 🤝 I’m looking for part-time job as a **Flutter Developer 💻**
 
 - 💬 Ask me about **Python, Java , Dart**
 
