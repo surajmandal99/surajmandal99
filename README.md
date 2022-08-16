@@ -1,10 +1,10 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchand.io)
-<h1 align="center">Hi 👋, I'm Suraj Mandal From Biratnagar, Nepal 🚩</h1>
+<h1 align="center">Hi👋,I'm Suraj Mandal From Biratnagar,Nepal🚩</h1>
 <h2 align="center">A Passionate Application Developer 👨‍💻</h2>
 <img align="center" alt="Coding" width="400" src="[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchand.io)
-<h1 align="center">Hi 👋, I'm Suraj Mandal From Biratnagar, Nepal 🚩</h1>
+<h1 align="center">Hi👋,I'm Suraj Mandal From Biratnagar,Nepal🚩</h1>
 <h2 align="center">A Passionate Application Developer 👨‍💻</h2>
-<img align="center" alt="Coding" width="400" src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#query=programmer&position=5&from_view=keyword">
+<img align="center" width="400" src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#query=programmer&position=5&from_view=keyword">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajmandal99&label=Profile%20views&color=0e75b6&style=flat" alt="surajmandal99" /> </p>
