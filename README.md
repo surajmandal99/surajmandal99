@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/surajman99" target="blank"><img src="https://img.shields.io/twitter/follow/surajman99?logo=twitter&style=for-the-badge" alt="surajman99" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Frameworks 👨‍💻**
+- 🌱 I’m currently learning **Flutter Frameworks 👨‍💻**
 
 - 🤝 I’m looking for part-time job as a **Flutter Developer 💻**
 
-- 💬 Ask me about **Python, Java , Dart**
+- 💬 Ask me about ** Python, Java , Dart **
 
 - 📫 How to reach me **surajxuraj@gmail.com**
 
-- ⚡ Fun fact about me **I think I'm Stoned 💀**
+<!-- - ⚡ Fun fact about me **I think I'm Funny 💀** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
