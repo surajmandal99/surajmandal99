@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **surajxuraj@gmail.com**
 
-- ⚡ Fun fact **I think I'm Stoned 💀**
+- ⚡ Fun fact about me **I think I'm Stoned 💀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
