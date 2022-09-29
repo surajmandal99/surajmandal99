@@ -11,7 +11,10 @@
 
 - 🤝 I’m looking for part-time job as a **Flutter Developer 💻**
 
-- 💬 Ask me about ** Python, Java , Dart **
+- 💬 Ask me about **
+- Python 
+- Java 
+- Dart **
 
 - 📫 How to reach me **surajxuraj@gmail.com**
 
