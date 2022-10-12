@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter Frameworks 👨‍💻**
 
-- 🤝 I’m looking for part-time job as a **Flutter Developer 💻**
+- 🤝 I’m looking for part-time work as a **Flutter Developer 💻**
 
 - 💬 Ask me about **
 - Python 
