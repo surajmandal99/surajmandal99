@@ -13,10 +13,10 @@
 - Python 
 - Java 
 - Dart **
+<img align="right" alt="Coding" width="300" hight="300" border="20" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471oo7owz8w76iskrtnh2wgm8c4myo2o5y1vxy8xre&rid=giphy.gif&ct=g">
+
 
 - 📫 How to reach me **surajxuraj@gmail.com**
-
-<img align="right" alt="Coding" width="300" hight="300" border="20" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471oo7owz8w76iskrtnh2wgm8c4myo2o5y1vxy8xre&rid=giphy.gif&ct=g">
 
 <!-- - ⚡ Fun fact about me **I think I'm Funny 💀** -->
 
