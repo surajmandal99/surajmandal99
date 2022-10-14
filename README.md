@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋 I'm Suraj Mandal From Biratnagar,Nepal🚩</h1>
 <h3 align="center">A passionate Application Developer 👨‍💻</h3>
-<img align="right" alt="Coding" width="340" height="300" src="https://www.istockphoto.com/vector/young-male-character-writing-code-on-a-desktop-computer-working-from-home-gm1219473617-356724028">
+<img align="right" alt="Coding" width="340" height="300" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471oo7owz8w76iskrtnh2wgm8c4myo2o5y1vxy8xre&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajmandal99&label=Profile%20views&color=0e75b6&style=flat" alt="surajmandal99" /> </p>
 
