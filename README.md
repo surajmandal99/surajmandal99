@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Application Developer 👨‍💻</h3>
 
 <p align="left"> <a href="https://twitter.com/surajman99" target="blank"><img src="https://img.shields.io/twitter/follow/surajman99?logo=twitter&style=for-the-badge" alt="surajman99" /></a> </p>
-<img align="right" alt="Coding" width="300" hight="300" border="20" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471oo7owz8w76iskrtnh2wgm8c4myo2o5y1vxy8xre&rid=giphy.gif&ct=g">
 
 
 - 🌱 I’m currently learning **Flutter Frameworks 👨‍💻**
@@ -16,6 +15,8 @@
 - Dart **
 
 - 📫 How to reach me **surajxuraj@gmail.com**
+
+<img align="right" alt="Coding" width="300" hight="300" border="20" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471oo7owz8w76iskrtnh2wgm8c4myo2o5y1vxy8xre&rid=giphy.gif&ct=g">
 
 <!-- - ⚡ Fun fact about me **I think I'm Funny 💀** -->
 
