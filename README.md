@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there, freshman! Wassup? 🖖 ,I'm Suraj Mandal From Biratnagar,Nepal🚩</h1>
+<h1 align="center">Hey there 🖖,freshman! Wassup? It's me Suraj Mandal From Biratnagar,Nepal🚩</h1>
 <h3 align="center">A passionate Application Developer 👨‍💻</h3>
 
 <p align="left"> <a href="https://twitter.com/surajman99" target="blank"><img src="https://img.shields.io/twitter/follow/surajman99?logo=twitter&style=for-the-badge" alt="surajman99" /></a> </p>
