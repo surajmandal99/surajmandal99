@@ -14,7 +14,8 @@
 
 - Python 
 - Java 
-- Dart **
+- Dart
+- Flutter 🤖 **
 
 
 - 📫 How to reach me **surajxuraj@gmail.com**
