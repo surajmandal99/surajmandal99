@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/surajman99" target="blank"><img src="https://img.shields.io/twitter/follow/surajman99?logo=twitter&style=for-the-badge" alt="surajman99" /></a> </p>
 
 
-- 🌱 I’m currently learning and exploring **Flutter Frameworks 👨‍💻**
+- 🌱 I’m currently exploring **Flutter Frameworks 👨‍💻**
 
 - 🤝 I’m looking for part-time work as a **Junior Flutter Developer 💻**
 
