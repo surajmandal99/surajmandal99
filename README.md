@@ -7,15 +7,18 @@
 
 - 🌱 I’m currently exploring **Flutter Frameworks 👨‍💻**
 
-- 🤝 I’m looking for collaboration on any ** Flutter Projects 💻**
+- 🤝 I’m looking for collaboration on any  **Flutter Projects 💻**
 
 - 💬 Ask me about **
 <img align="right" alt="Coding" width="360" hight="400" border="8" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471oo7owz8w76iskrtnh2wgm8c4myo2o5y1vxy8xre&rid=giphy.gif&ct=g">
 
+- Flutter ![CuteBirdsGIF](https://user-images.githubusercontent.com/105273927/216832314-dc1ad099-0952-4273-af6a-9ef5c5f52e3f.gif)
+
+- Dart 🧿
+- Firebase 🔥
 - Python 
 - Java 
-- Dart
-- Flutter 🤖 **
+ **
 
 
 - 📫 How to reach me **surajxuraj@gmail.com**
