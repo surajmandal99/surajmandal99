@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring **Flutter Frameworks 👨‍💻**
 
-- 🤝 I’m looking fro collaboration with **Flutter Projects 💻**
+- 🤝 I’m looking for collaboration with any kind of **Flutter Projects 💻**
 
 - 💬 Ask me about **
 <img align="right" alt="Coding" width="360" hight="400" border="8" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471oo7owz8w76iskrtnh2wgm8c4myo2o5y1vxy8xre&rid=giphy.gif&ct=g">
