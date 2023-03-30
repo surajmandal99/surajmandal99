@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there 🖖,freshman! Wassup? It's me Suraj Mandal From Biratnagar,Nepal </h1>
+<h1 align="center">Hey there 🖖,freshman! Wassup? It's me Suraj Mandal From Nepal </h1>
 <h3 align="center">A passionate Application Developer 👨‍💻</h3>
 
 <p align="left"> <a href="https://twitter.com/surajman99" target="blank"><img src="https://img.shields.io/twitter/follow/surajman99?logo=twitter&style=for-the-badge" alt="surajman99" /></a> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring **Flutter Frameworks 👨‍💻**
 
-- 🤝 I’m looking for collaboration with any kind of **Flutter Projects 💻**
+- 🤝 I’m looking for the collaboration with any kind of **Flutter Projects 💻**
 
 - 💬 Ask me about **
 <img align="right" alt="Coding" width="360" hight="400" border="8" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471oo7owz8w76iskrtnh2wgm8c4myo2o5y1vxy8xre&rid=giphy.gif&ct=g">
